@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## We want to support the vulnerable during this crisis 
 
-You can use the [editor on GitHub](https://github.com/lbandc/coronaphona.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Using [Twilio](https://twilio.com), we provide a simple, single helpline that vulnerable people in your community can call. This will seamlessly connect them to local volunteers in a round-robin manner, so they don't have to call or remember a list of telephone numbers.
 
 ### Markdown
 
