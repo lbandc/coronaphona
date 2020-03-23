@@ -1,6 +1,6 @@
 ## CoronaPhona
 
-Using [Twilio](https://twilio.com), we provide a simple, single helpline that vulnerable people in your community can call. This will seamlessly connect them to local volunteers in a round-robin manner, so they don't have to call or remember a list of telephone numbers.
+We provide a simple, single helpline that vulnerable people in your community can call. This will seamlessly connect them to local volunteers in a round-robin manner, so they don't have to call or remember a list of telephone numbers.
 
 ### We want to support the vulnerable during this crisis 
 
